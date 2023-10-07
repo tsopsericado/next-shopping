@@ -81,7 +81,7 @@ const Newproducts = () => {
            img={item.img}
            title={item.title}
            desc={item.desc}
-           rating={item.price}
+           rating={item.rating}
            price={item.price}
           />
         ))}
